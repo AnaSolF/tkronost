@@ -1,8 +1,8 @@
 ### Hola! Mi nombre es Ana_Sol y estoy interesada en crear una red de contáctos para compartir información, soluciones y aportes a través de GitHub.
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AnaSolF&show_icons=true&theme=dracula"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaSolF&layout=compact&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tkronost&show_icons=true&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkronost&layout=compact&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
